@@ -5,7 +5,7 @@ PyBank folder:
 Contains the following files: 
 - main.py file the has the script that returns result of Financial Analysis
 -budget_data.csv file that contains the data which needs to be analysed
-- analaysis.txt file that was exported with the results
+- analaysis.txt file that was exported with the financial results
 
 Lines 23-25 and line 56 was created with direction from a tutor. 
 Lines 35-40 I came up with it after perfomring the calculations manually in an excel file
