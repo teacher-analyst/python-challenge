@@ -3,7 +3,7 @@
 PyBank folder:
 
 Contains the following files: 
-- main.oy file the has the script that returns result of Financial Analysis
+- main.py file the has the script that returns result of Financial Analysis
 -budget_data.csv file that contains the data which needs to be analysed
 - analaysis.txt file that was exported with the results
 
@@ -15,10 +15,10 @@ The rest of the script was completed with reference to solutions to course mater
 
 PyPoll folder:
 Contains the following files: 
-- main.oy file the has the script that returns Election Results. 
+- main.py file the has the script that returns Election Results. 
 -election_data.csv file that contains the data which needs to be analysed
 - analaysis.txt file that was exported with Election Results 
 
-Lines 21-23: #https://www.geeksforgeeks.org/dictionary-counter-python-find-winner-election/
+Lines 3,21-23: #https://www.geeksforgeeks.org/dictionary-counter-python-find-winner-election/
 Line 32-35: https://www.geeksforgeeks.org/iterate-over-a-dictionary-in-python/
 The rest of the script was completed with reference to course materials
